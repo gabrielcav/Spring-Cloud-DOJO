@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ZuulServer" />
-        <module name="AccountServer" />
-        <module name="CustomerServive" />
-        <module name="EurekaServer" />
         <module name="ZipkinServer" />
+        <module name="AccountServer" />
+        <module name="ZuulServer" />
+        <module name="EurekaServer" />
+        <module name="CustomerServive" />
       </profile>
     </annotationProcessing>
   </component>
