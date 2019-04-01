@@ -2,21 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8a41cd46-56a9-4ecf-9af5-7e7d2535801a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccountServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AccountServer/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AccountServer/src/test/java/com/dojo/AccountServer/AccountServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/AccountServer/src/test/java/com/dojo/AccountServer/AccountServerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CustomerServive/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerServive/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/CustomerConfiguration.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/CustomerConfiguration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/CustomerServiveApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/CustomerServiveApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/exceptions/CustomerNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/exceptions/CustomerNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/intercomm/AccountClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/intercomm/AccountClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CustomerServive/src/test/java/com/dojo/CustomerServive/CustomerServiveApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/CustomerServive/src/test/java/com/dojo/CustomerServive/CustomerServiveApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZipkinServer/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ZipkinServer/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZipkinServer/src/main/java/com/dojo/ZipkinServer/ZipkinServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZipkinServer/src/main/java/com/dojo/ZipkinServer/ZipkinServerApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZipkinServer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ZipkinServer/src/main/resources/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ZipkinServer/src/test/java/com/dojo/ZipkinServer/ZipkinServerApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZipkinServer/src/test/java/com/dojo/ZipkinServer/ZipkinServerApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ZuulServer/src/main/java/com/dojo/ZuulServer/ZuulServerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ZuulServer/src/main/java/com/dojo/ZuulServer/ZuulServerApplication.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/EurekaServer/target/" />
@@ -36,104 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/api/Api.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4">
-              <caret line="9" column="62" selection-start-line="9" selection-start-column="62" selection-end-line="9" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/intercomm/AccountClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/exceptions/CustomerNotFoundException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomerServive/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-45">
-              <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AccountServer/pom.xml">
+        <entry file="file://$PROJECT_DIR$/ZipkinServer/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="302">
-              <caret line="64" column="78" selection-start-line="64" selection-start-column="78" selection-end-line="64" selection-end-column="78" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/CustomerConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AccountServer/src/main/java/com/dojo/AccountServer/AccountServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomerServive/src/test/java/com/dojo/CustomerServive/CustomerServiveApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AccountServer/src/main/java/com/dojo/AccountServer/AccountConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/CustomerServiveApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -154,8 +53,12 @@
         <option value="$PROJECT_DIR$/CustomerServive/src/test/java/com/dojo/CustomerServive/CustomerServiveApplicationTests.java" />
         <option value="$PROJECT_DIR$/AccountServer/src/main/java/com/dojo/AccountServer/AccountConfiguration.java" />
         <option value="$PROJECT_DIR$/AccountServer/src/main/java/com/dojo/AccountServer/AccountServerApplication.java" />
-        <option value="$PROJECT_DIR$/CustomerServive/pom.xml" />
+        <option value="$PROJECT_DIR$/AccountServer/src/test/java/com/dojo/AccountServer/AccountServerApplicationTests.java" />
         <option value="$PROJECT_DIR$/AccountServer/pom.xml" />
+        <option value="$PROJECT_DIR$/CustomerServive/pom.xml" />
+        <option value="$PROJECT_DIR$/ZipkinServer/src/main/java/com/dojo/ZipkinServer/ZipkinServerApplication.java" />
+        <option value="$PROJECT_DIR$/ZipkinServer/src/test/java/com/dojo/ZipkinServer/ZipkinServerApplicationTests.java" />
+        <option value="$PROJECT_DIR$/ZipkinServer/pom.xml" />
       </list>
     </option>
   </component>
@@ -188,29 +91,58 @@
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AccountServer" type="462c0819:PsiDirectoryNode" />
+              <item name="CustomerServive" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AccountServer" type="462c0819:PsiDirectoryNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AccountServer" type="462c0819:PsiDirectoryNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="AccountServer" type="462c0819:PsiDirectoryNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="AccountServer" type="462c0819:PsiDirectoryNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringCloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ZipkinServer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,6 +162,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -243,7 +178,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.AccountServerApplication">
+  <component name="RunManager" selected="Spring Boot.EurekaServerApplication">
+    <configuration name="ZipkinServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dojo.ZipkinServer.ZipkinServerApplication" />
+      <module name="ZipkinServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dojo.ZipkinServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AccountServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="AccountServer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dojo.AccountServer.AccountServerApplication" />
@@ -265,6 +213,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ZipkinServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ZipkinServer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dojo.ZipkinServer.ZipkinServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="ZuulServer" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.dojo.ZuulServer.ZuulServerApplication" />
@@ -272,6 +227,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZipkinServerApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -283,12 +243,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554143168248</updated>
-      <workItem from="1554143169705" duration="1326000" />
+      <workItem from="1554143169705" duration="6401000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1326000" />
+    <option name="totallyTimeSpent" value="6401000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="24" width="1327" height="744" extended-state="6" />
@@ -300,7 +260,7 @@
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Web" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24941543" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1909587" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" />
@@ -313,7 +273,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.9016129" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.90645164" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -357,20 +317,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/intercomm/AccountClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CustomerServive/src/test/java/com/dojo/CustomerServive/CustomerServiveApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountServer/src/main/java/com/dojo/AccountServer/AccountServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CustomerServive/src/main/java/com/dojo/CustomerServive/intercomm/AccountClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -384,10 +351,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AccountServer/src/main/java/com/dojo/AccountServer/AccountServerApplication.java">
+    <entry file="file://$PROJECT_DIR$/EurekaServer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+        <state relative-caret-position="270">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountServer/src/main/java/com/dojo/AccountServer/exceptions/AccountNotFoundException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AccountServer/src/test/java/com/dojo/AccountServer/AccountServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -401,17 +382,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CustomerServive/pom.xml">
+    <entry file="file://$PROJECT_DIR$/AccountServer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-45">
-          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+        <state relative-caret-position="227">
+          <caret line="33" selection-start-line="33" selection-end-line="40" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AccountServer/pom.xml">
+    <entry file="file://$PROJECT_DIR$/CustomerServive/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="302">
-          <caret line="64" column="78" selection-start-line="64" selection-start-column="78" selection-end-line="64" selection-end-column="78" />
+        <state relative-caret-position="289">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZipkinServer/src/main/java/com/dojo/ZipkinServer/ZipkinServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZipkinServer/src/test/java/com/dojo/ZipkinServer/ZipkinServerApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZipkinServer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
         </state>
       </provider>
     </entry>
