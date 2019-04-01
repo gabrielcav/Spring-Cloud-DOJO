@@ -1,4 +1,4 @@
-package pl.piomin.CustomerServive.exceptions;
+package com.dojo.CustomerServive.exceptions;
 
 import org.springframework.web.bind.annotation.ResponseStatus;
 

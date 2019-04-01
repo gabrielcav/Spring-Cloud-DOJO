@@ -1,4 +1,4 @@
-package pl.piomin.CustomerServive.intercomm;
+package com.dojo.CustomerServive.intercomm;
 
 import java.util.List;
 
@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
-import pl.piomin.microservices.customer.model.Account;
+import com.dojo.CustomerServive.model.Account;
 
 @FeignClient("account-service")
 public interface AccountClient {

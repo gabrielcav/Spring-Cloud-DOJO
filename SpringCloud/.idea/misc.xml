@@ -7,6 +7,7 @@
         <option value="$PROJECT_DIR$/ZuulServer/pom.xml" />
         <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
         <option value="$PROJECT_DIR$/ZipkinServer/pom.xml" />
+        <option value="$PROJECT_DIR$/AccountServer/pom.xml" />
         <option value="$PROJECT_DIR$/CustomerServive/pom.xml" />
       </list>
     </option>
