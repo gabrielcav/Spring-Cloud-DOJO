@@ -17,7 +17,7 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="AccountServer" options="-parameters" />
-      <module name="CustomerServive" options="-parameters" />
+      <module name="CustomerServive" options="" />
       <module name="EurekaServer" options="-parameters" />
       <module name="ZipkinServer" options="-parameters" />
       <module name="ZuulServer" options="-parameters" />
