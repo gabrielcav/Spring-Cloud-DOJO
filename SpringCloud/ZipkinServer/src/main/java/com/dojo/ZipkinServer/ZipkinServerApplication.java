@@ -4,6 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
+@EnableZipkinServer
 public class ZipkinServerApplication {
 
 	public static void main(String[] args) {
