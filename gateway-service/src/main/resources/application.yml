@@ -17,7 +17,10 @@ zuul:
       serviceId: account-service
     customer: 
       path: /customer/**
-      serviceId: customer-service          
+      serviceId: customer-service
+    client: 
+      path: /client/**
+      serviceId: client-service  
 
 ribbon:
   eureka:
