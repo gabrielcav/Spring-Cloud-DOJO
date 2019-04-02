@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8711a3aa-2a22-4a24-bb1c-ec5340420d84" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/api/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/api/Api.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/model/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/model/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/resources/application.yml" afterDir="false" />
-    </list>
+    <list default="true" id="8711a3aa-2a22-4a24-bb1c-ec5340420d84" name="Default Changelist" comment="Dojo" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/discovery-service/target/" />
     <ignored path="$PROJECT_DIR$/customer-service/target/" />
@@ -27,123 +20,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/model/Client.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="e#239#240#0" expanded="true" />
-                <element signature="e#264#265#0" expanded="true" />
-                <element signature="e#301#302#0" expanded="true" />
-                <element signature="e#329#330#0" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#393#394#0" expanded="true" />
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#477#478#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#553#554#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#661#662#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-                <element signature="e#719#720#0" expanded="true" />
-                <element signature="e#759#760#0" expanded="true" />
-                <element signature="e#791#792#0" expanded="true" />
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#856#857#0" expanded="true" />
-                <element signature="e#901#902#0" expanded="true" />
-                <element signature="e#934#935#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gateway-service/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="29" column="28" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/discovery-service/src/main/java/pl/piomin/microservices/eureka/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/discovery-service/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/account-service/src/main/java/pl/piomin/microservices/account/api/Api.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="22" column="50" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="22" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/ClientConfiguration.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/api/Api.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="28" column="52" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/api/Api.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -192,240 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="account-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="account-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="account-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="account-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="account-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="account-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="account-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="account" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="client-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="client-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="client-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="client-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="client-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="client-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="client-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="client" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="customer-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="customer" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edge" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Spring-Cloud-DOJO" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -520,16 +164,15 @@
       <updated>1554165474204</updated>
       <workItem from="1554165475515" duration="2236000" />
       <workItem from="1554205252988" duration="1904000" />
-      <workItem from="1554211399353" duration="2076000" />
+      <workItem from="1554211399353" duration="2333000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6216000" />
+    <option name="totallyTimeSpent" value="6473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="24" width="1327" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17614965" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -568,6 +211,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dojo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dojo" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/account-service/src/main/java/pl/piomin/microservices/account/AccountConfiguration.java">
@@ -782,8 +429,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/client-service/src/main/java/pl/piomin/microservices/client/api/Api.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="236">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
