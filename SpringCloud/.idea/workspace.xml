@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ebd9f95-d253-43cd-ac17-4ca9178e6662" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/account-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/java/pl/piomin/microservices/account/AccountConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/java/pl/piomin/microservices/account/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/java/pl/piomin/microservices/account/api/Api.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/java/pl/piomin/microservices/account/exceptions/AccountNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/account-service/src/main/java/pl/piomin/microservices/account/model/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/admin-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin-service/src/main/java/pl/piomin/microservices/admin/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-admin-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-admin-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-admin-service/src/main/java/pl/piomin/microservice/cloud/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/customer-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/CustomerConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/api/Api.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/exceptions/CustomerNotFoundException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/intercomm/AccountClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/model/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/model/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/customer-service/src/main/java/pl/piomin/microservices/customer/model/CustomerType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/discovery-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/discovery-service/src/main/java/pl/piomin/microservices/eureka/Application.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway-service/src/main/java/pl/piomin/microservices/edge/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/gateway-service/src/main/java/pl/piomin/microservices/edge/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="9ebd9f95-d253-43cd-ac17-4ca9178e6662" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/cloud-admin-service/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -56,8 +26,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/pl/piomin/microservices/edge/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+            <state relative-caret-position="300">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,6 +79,32 @@
             <path>
               <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="discovery-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
               <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -132,11 +131,28 @@
             <path>
               <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
               <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
-              <item name="gateway-service" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sample-spring-microservices" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringCloud" type="462c0819:PsiDirectoryNode" />
+              <item name="zipkin-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="edge" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,6 +161,12 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -207,16 +229,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554164498725</updated>
-      <workItem from="1554164500139" duration="250000" />
+      <workItem from="1554164500139" duration="439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="250000" />
+    <option name="totallyTimeSpent" value="439000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="39" y="24" width="1327" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
@@ -259,8 +280,11 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gateway-service/src/main/java/pl/piomin/microservices/edge/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
+        <state relative-caret-position="300">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
